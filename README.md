@@ -1,14 +1,14 @@
 ## About Me
 
-<h1 align="center">Hi 👋, I'm Sainadh Vatturi</h1>
+<h1 align="center">Hello 👋, <br> I'm Sainadh Vatturi</h1>
 
 <h3 align="center">
-  An aspiring software developer with a passion for innovation and problem-solving.
+  An aspiring software developer with a passion for innovation and problem-solving.<br>
   Here's a quick snapshot of my journey:
 </h3>
 
 - 👨‍💻 **Software Developer & Tech Enthusiast**
-  - B.Tech in CSE, VIT University
+  - B.Tech in Computer Science and Engineering, VIT-University
   
 - 💡 **Driven by Innovation**
   - Experienced in full-stack development, cloud computing, and machine learning
@@ -21,9 +21,49 @@
   - **Electricity Bill Predictor:** Developed a tool to predict electricity bills using historical data and machine learning.
   - **Chatbot Application:** Created a chatbot capable of handling customer inquiries and providing automated responses.
   
-- 🛠 **Tech Stack**
-  - Proficient in Java, Python, JavaScript, React.js, Node.js, WordPress
+- 🛠 **Tech Skills**
+
+  - **Languages**:<br>
+    ![Java](https://skillicons.dev/icons?i=java) 
+    ![Python](https://skillicons.dev/icons?i=python) 
+    ![JavaScript](https://skillicons.dev/icons?i=js) 
+    ![C](https://skillicons.dev/icons?i=c) 
+    ![C++](https://skillicons.dev/icons?i=cpp)
+    ![PHP](https://skillicons.dev/icons?i=php) 
+    ![HTML](https://skillicons.dev/icons?i=html) 
+    ![CSS](https://skillicons.dev/icons?i=css)
   
+  - **Frameworks & Libraries**:<br>
+    ![React](https://skillicons.dev/icons?i=react) 
+    ![Node.js](https://skillicons.dev/icons?i=nodejs) 
+    ![Express](https://skillicons.dev/icons?i=express) 
+    ![WordPress](https://skillicons.dev/icons?i=wordpress) 
+    ![PyTorch](https://skillicons.dev/icons?i=pytorch)
+    ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+    ![TailwindCSS](https://skillicons.dev/icons?i=tailwind)
+    ![jQuery](https://skillicons.dev/icons?i=jquery)
+
+  - **Databases & Cloud**:<br>
+    ![MySQL](https://skillicons.dev/icons?i=mysql) 
+    ![MongoDB](https://skillicons.dev/icons?i=mongodb) 
+    ![SQLite](https://skillicons.dev/icons?i=sqlite) 
+    ![Firebase](https://skillicons.dev/icons?i=firebase) 
+    ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+    ![GCP](https://skillicons.dev/icons?i=gcp) 
+    ![AWS](https://skillicons.dev/icons?i=aws)
+  
+  - **Tools & Platforms**:<br>
+    ![Git](https://skillicons.dev/icons?i=git) 
+    ![GitHub](https://skillicons.dev/icons?i=github) 
+    ![Docker](https://skillicons.dev/icons?i=docker) 
+    ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) 
+    ![Linux](https://skillicons.dev/icons?i=linux) 
+    ![VSCode](https://skillicons.dev/icons?i=vscode) 
+    ![Figma](https://skillicons.dev/icons?i=figma)
+    ![Photoshop](https://skillicons.dev/icons?i=ps)
+    ![Nginx](https://skillicons.dev/icons?i=nginx)
+    ![Apache](https://skillicons.dev/icons?i=apache)
+
 - 🌱 **Continuous Learner**
   - Exploring machine learning, cloud solutions, and DevOps
   
@@ -32,11 +72,9 @@
   
 - 🤝 **Let's Collaborate**
   - Open to collaborations and tech discussions!
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sai-vatturi&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=sai-vatturi&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sai-vatturi&theme=dark&hide_border=true)<br/>
 
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=sai-vatturi&theme=dark&hide_border=true)<br/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sai-vatturi&icon=0&color=12)](https://visitcount.itsvg.in)
