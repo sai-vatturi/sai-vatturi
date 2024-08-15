@@ -71,6 +71,24 @@
 - 🤝 **Let's Collaborate**
   - Open to collaborations and tech discussions!
 
+<p align="center" style="display: flex; justify-content: center;">
+    <a href="https://www.linkedin.com/in/sai-vatturi" target="_blank" style="text-decoration: none;">
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
+    </a>
+    <a href="mailto:sainadhvatturi@gmail.com" target="_blank" style="text-decoration: none;">
+        <img align="center" src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail" alt="Gmail"/>
+    </a>
+    <a href="https://leetcode.com/sainadhvatturi/" target="_blank" style="text-decoration: none;">
+        <img align="center" src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" alt="LeetCode Profile"/>
+    </a>
+    <a href="https://auth.geeksforgeeks.org/user/sainadhvatturi/" target="_blank" style="text-decoration: none;">
+        <img align="center" src="https://img.shields.io/badge/GeeksforGeeks-Profile-green?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks Profile"/>
+    </a>
+<!--     <a href="https://bit.ly/3SQYW25" target="_blank" style="text-decoration: none;">
+        <img align="center" src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge&logo=internet-explorer" alt="Portfolio"/>
+    </a> -->
+</p>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sai-vatturi&theme=dark&hide_border=true)<br/>
 
