@@ -1,5 +1,3 @@
-## About Me
-
 <h1 align="center">Hello 👋, <br> I'm Sainadh Vatturi</h1>
 
 <h3 align="center">
