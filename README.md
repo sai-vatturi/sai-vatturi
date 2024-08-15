@@ -5,12 +5,25 @@
   Here's a quick snapshot of my journey:
 </h3>
 
+---
+
+
+
 - 👨‍💻 **Software Developer & Tech Enthusiast**
   - B.Tech in Computer Science and Engineering, VIT-University
   
 - 💡 **Driven by Innovation**
   - Experienced in full-stack development, cloud computing, and machine learning
-  
+
+- 🏆 **Notable Achievements**
+  - ![AWS | Solutions Architect](https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect-orange?style=flat-square&logo=amazonaws&logoColor=white)  <br>Proficient in designing scalable, secure, and cost-optimized cloud architectures on AWS.
+    <br>
+    <br>
+  - ![Published Patent](https://img.shields.io/badge/Patent-Published-blue?style=flat-square&logo=patreon&logoColor=white) <br>Methodology for Driver Drowsiness Detection & Alertion (Application no: 202441001073)
+    <br>
+    <br>
+  - ![Research Paper](https://img.shields.io/badge/Research%20Paper-In%20Progress-lightgrey?style=flat-square&logo=academia&logoColor=white) <br>Research paper submitted and is in progress on a Cascaded Speech-to-Speech Translation System focusing on low-resource Indic languages.
+
 - 🚀 **Key Projects**
   - **Campus Collab:** Developed an open-source platform for sharing student materials across universities.
   - **Shrimp Defect Identification:** Built a model using PyTorch & YOLO for identifying defects in shrimp processing.
@@ -89,7 +102,7 @@
     </a> -->
 </p>
 
-# 📊 GitHub Stats:
+- 📊 **GitHub Stats**:<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sai-vatturi&theme=dark&hide_border=true)<br/>
 
 ---
